@@ -1,1 +1,1 @@
-GDSC WebDash Bootcamp projects
+WebDash Bootcamp projects
